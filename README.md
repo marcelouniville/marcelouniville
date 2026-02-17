@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Marcelo
 
-<!--
-**marcelouniville/marcelouniville** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Sistemas de Informação (UNIVILLE)  
+💻 Foco em Desenvolvimento e Suporte em TI  
+🚀 Buscando oportunidade de estágio  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologias
+
+- Java
+- Python
+- MySQL
+- Lógica de Programação
+- Pacote Office
+
+---
+
+## 📂 Projetos em Destaque
+
+🔹 Sistema de Padaria (Java)  
+🔹 API Acadêmica (Java)  
+🔹 Modelagem de Banco de Dados  
+
+---
+
+📫 Contato:  
+LinkedIn: linkedin.com/in/marceloandrejov
+Email: marceloandrejov007@gmail.com
